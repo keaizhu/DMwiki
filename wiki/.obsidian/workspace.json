@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "fb11b9dbc4d3a09d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b8c07b821f2590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b8dfe9d7255040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "服务器规则/0处理方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fde8b46527f8321",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d29a0296f99ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba5ee4442dd959b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a621140fe8c1001f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf22798a82f3aac7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53eda1646d74f7fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72980384301d789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51eeb5bc27844341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "服务器规则/0处理方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78eb196816133518",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "服务器规则/0处理方法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39e8427f6b35fd71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fd0212dca96c3d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "服务器规则/0处理方法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "46b8dfe9d7255040",
+  "lastOpenFiles": [
+    "服务器规则/1防作弊行为.md",
+    "服务器规则/0处理方法.md",
+    "assets/Adapt技能系统-0.png.md",
+    "未命名.canvas",
+    "服务器简介/服务器插件教程/称号系统.md",
+    "服务器简介/4.游戏时代.md",
+    "服务器简介/1.DawnMoon服务器简介.md",
+    "服务器简介/游戏时代/农耕时代.md",
+    "服务器简介/游戏时代/蛮荒时代（2022.10.1-）.md",
+    "服务器简介/3.常用指令.md"
+  ]
+}
